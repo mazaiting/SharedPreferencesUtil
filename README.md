@@ -1,5 +1,5 @@
 # SharedPreferencesUtil
-SharedPreferences使用工具类
+SharedPreferences使用工具类.已弃用. 改用[EasyAndroid](https://github.com/mazaiting/EasyAndroid)
 
 # 使用
 - 初始化SharedPreferences
